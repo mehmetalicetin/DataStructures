@@ -46,7 +46,7 @@ i - j 4 - 4
 [5, 13, 27, 65, 90]
 
 * */
-public final class InsertionSort {
+public final class BubbleShort {
     public static void main(String[] args) {
         List<Integer> array = Arrays.asList(90,27,13,65,5);
 
