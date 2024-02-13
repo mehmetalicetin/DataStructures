@@ -48,7 +48,7 @@ i - j 4 - 4
 * */
 public final class BubbleShort {
     public static void main(String[] args) {
-        List<Integer> array = Arrays.asList(90,27,13,65,5);
+        List<Integer> array = Arrays.asList(12, 11, 13, 5, 6);
 
         System.out.println(array);
         for(int i = 0; i < array.size() ; i++){
